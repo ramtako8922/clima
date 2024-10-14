@@ -1,9 +1,9 @@
 <?php
 class Conection {
-    private $host = 'localhost';
-    private $db = 'clima';
-    private $user = 'root';
-    private $password = '123456';
+    private $host = '';
+    private $db = '';
+    private $user = '';
+    private $password = '';
     private $charset = 'utf8mb4';
     private $pdo;
 
